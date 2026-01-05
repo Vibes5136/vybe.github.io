@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Vybe | Microbiology Graduate</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- HERO -->
+  <section class="hero">
+    <h1>Vybe</h1>
+    <h2>Microbiology Graduate | Research-Oriented | Tech-Curious</h2>
+    <p>
+      A microbiology graduate with a strong interest in research, laboratory practice,
+      and the intersection of science and technology.
+    </p>
+  </section>
+
+  <!-- ABOUT -->
+  <section class="section">
+    <h3>About Me</h3>
+    <p>
+      I am a microbiology graduate with hands-on academic research experience and a solid
+      foundation in laboratory techniques. I am interested in research, data-driven science,
+      and how technology can support scientific work and knowledge sharing.
+    </p>
+  </section>
+
+  <!-- SKILLS -->
+  <section class="section">
+    <h3>Skills</h3>
+    <div class="skills">
+      <ul>
+        <li>Microbiological Techniques</li>
+        <li>Sample Processing</li>
+        <li>Laboratory Practices</li>
+        <li>Research Documentation</li>
+      </ul>
+      <ul>
+        <li>Scientific Writing</li>
+        <li>Presentations & Reporting</li>
+        <li>HTML & CSS (Basic)</li>
+        <li>Online Research Tools</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- PROJECTS -->
+  <section class="section">
+    <h3>Projects & Experience</h3>
+
+    <div class="project">
+      <h4>Microbiological Quality of Kunu Drinks</h4>
+      <p>
+        Conducted microbial analysis of locally sold kunu drinks to assess quality,
+        safety, and public health implications.
+      </p>
+    </div>
+
+    <div class="project">
+      <h4>Antibiotic Resistance Mechanisms in Bacteria</h4>
+      <p>
+        Researched and presented bacterial resistance mechanisms with emphasis on
+        genetic and biochemical pathways.
+      </p>
+    </div>
+
+    <div class="project">
+      <h4>Personal Portfolio Website</h4>
+      <p>
+        Designed and built a simple portfolio website using HTML and CSS to showcase
+        professional profile and projects.
+      </p>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section class="section contact">
+    <h3>Contact</h3>
+    <p>Email: <a href="mailto:yourname@email.com">yourname@email.com</a></p>
+    <p>LinkedIn: <a href="#">linkedin.com/in/yourname</a></p>
+    <p>X (Twitter): <a href="#">@yourhandle</a></p>
+  </section>
+
+  <footer>
+    <p>© 2026 Vybe</p>
+  </footer>
+
+</body>
+</html>
